@@ -1,0 +1,14 @@
+{
+	"campers": [
+		{"id": 1, "name": "Arthur Curry", "total_points": 80, "point_in_last_30_days": 20},
+		{"id": 2, "name": "Bruce Wayne", "total_points": 70, "point_in_last_30_days": 30},
+		{"id": 3, "name": "Barry Allen", "total_points": 80, "point_in_last_30_days": 23},
+		{"id": 4, "name": "Clark Kent", "total_points": 96, "point_in_last_30_days": 85},
+		{"id": 5, "name": "Diana Prince", "total_points": 34, "point_in_last_30_days": 5},
+		{"id": 6, "name": "Barbara Gordon", "total_points": 89, "point_in_last_30_days": 21},
+		{"id": 7, "name": "Richard Grayson", "total_points": 45, "point_in_last_30_days": 26},
+		{"id": 8, "name": "Damian Wayne", "total_points": 13, "point_in_last_30_days": 7},
+		{"id": 9, "name": "Tim Drake", "total_points": 65, "point_in_last_30_days": 28},
+		{"id": 10, "name": "John Jones", "total_points": 60, "point_in_last_30_days": 20}
+	]
+}

@@ -3,7 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "axios": "^0.18.0",
     "react": "^16.4.0",
+    "react-bootstrap": "^0.32.1",
     "react-dom": "^16.4.0",
     "react-scripts": "1.1.4"
   },
@@ -11,6 +13,11 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "json-server": "json-server --port 4000 --watch src\\SampleData\\campers.json",
+    "start-dev": "react-scripts start && json-server"
+  },
+  "devDependencies": {
+    "json-server": "^0.13.0"
   }
 }
